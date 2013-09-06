@@ -21,5 +21,10 @@ namespace appOne
 		{
 			return val1 - val2;
 		}
+
+		public int BadCode(int val1)
+		{
+			return val1;
+		}
 	}
 }

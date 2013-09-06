@@ -8,24 +8,19 @@ namespace appOne
 {
 	class Program
 	{
-		void Main(string[] args)
+		static void Main(string[] args)
 		{
-			var result = Add(1, 2);
+			var result = Add(Convert.ToInt32(args[1]), Convert.ToInt32(args[2]));
 		}
 
-		public int Add(int val1, int val2)
+		public static int Add(int val1, int val2)
 		{
 			return val1 + val2;
 		}
 
-		public int Subtract(int val1, int val2)
+		public static int Subtract(int val1, int val2)
 		{
 			return val1 - val2;
-		}
-
-		public int BadCode(int val1)
-		{
-			return val1;
 		}
 
 	}

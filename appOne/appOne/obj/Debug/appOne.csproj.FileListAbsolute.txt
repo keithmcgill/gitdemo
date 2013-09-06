@@ -1,1 +1,6 @@
 C:\DEV\git\appOne\appOne\bin\Debug\appOne.exe.config
+C:\DEV\git\appOne\appOne\bin\Debug\appOne.exe
+C:\DEV\git\appOne\appOne\bin\Debug\appOne.pdb
+C:\DEV\git\appOne\appOne\obj\Debug\appOne.csprojResolveAssemblyReference.cache
+C:\DEV\git\appOne\appOne\obj\Debug\appOne.exe
+C:\DEV\git\appOne\appOne\obj\Debug\appOne.pdb

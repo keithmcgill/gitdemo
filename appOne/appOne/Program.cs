@@ -8,8 +8,9 @@ namespace appOne
 {
 	class Program
 	{
-		static void Main(string[] args)
+		void Main(string[] args)
 		{
+			var result = Add(1, 2);
 		}
 
 		public int Add(int val1, int val2)
@@ -26,5 +27,6 @@ namespace appOne
 		{
 			return val1;
 		}
+
 	}
 }

@@ -8,10 +8,14 @@ namespace appOne
 {
 	public class FeatureOne
 	{
-		public void DoFeatureOne()
+		public int DoFeatureOne(int val)
 		{
 			//feature one code
+			//fixed!
+			return val;
 
 		}
+
+		
 	}
 }
